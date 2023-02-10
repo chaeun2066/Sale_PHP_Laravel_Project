@@ -19,7 +19,7 @@
       <!-- navbar -->
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark"  style="height: 70px">
       <!-- <nav class="navbar navbar-expand-lg  bg-body-tertiary"> -->
-        <div class="container">
+        <div class="container-fluid me-5 ms-5">
           <a class="navbar-brand" href="{{ url('/') }}">
             <div class="d-flex">
               <img src="{{asset('my/img/letter-m.png')}}" style="width: 30px; height: 30px;" class="me-2">
