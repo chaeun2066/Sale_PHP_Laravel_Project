@@ -2,7 +2,7 @@
 @section('content')
   <br>
   <!-- 사용자 alert -->
-  <div class="alert mycolor1" role="alert">구분</div>
+  <div class="alert mycolor1" role="alert">제품</div>
 
   <script>
     function find_text(){

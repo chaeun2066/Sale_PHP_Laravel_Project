@@ -1,4 +1,4 @@
-@extends('main')numi
+@extends('main')
 @section('content')
 
   <br>
