@@ -23,7 +23,7 @@ PHP, Laravel, HTML, CSS, Javascript를 활용한 판매관리 웹사이트 CHAEU
 ● Fucntion Summary and Information
 -------------
 
-[![Video Label](http://img.youtube.com/vi/9ckcUQRocAM/0.jpg)](https://youtu.be/9ckcUQRocAM)
+[![Video Label](http://img.youtube.com/vi/uAqN8Oub5pc/0.jpg)](https://youtu.be/uAqN8Oub5pc)
 
 
 ● Version History
